@@ -1,0 +1,110 @@
+body{
+    background-color: #1501A1;
+}
+
+
+.hero-text{
+    background-color: white;
+   
+}
+.h-file{
+    font-family: 'DM Serif Display', serif;
+    font-weight: bolder;
+    font-size: 80px;
+    text-align: center;
+    color: #1501A1;
+    
+    
+    
+}
+.para-text{
+    font-size: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.resume-file{
+    background-color: white;
+}
+.resume-text{
+    font-family: 'DM Serif Display', serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+h3{
+    color: #1501A1;
+    font-size: 30px; 
+}
+.para-text1{
+    font-size: large;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.project-back{
+    background-color: white;
+    display: flex;
+}
+.painting{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.projects1{
+    color: #1501A1;
+    font-family: 'DM Serif Display', serif;
+    font-size: 50px;
+}
+
+.about-back{
+    background-color: white;
+}
+.about1{
+    color: black;
+    font-family: 'DM Serif Display', serif;
+    font-size: 50px; 
+    font-weight: bolder;
+}
+
+.special{
+    font-size: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.contact-me{
+    background-color: white;
+}
+
+.footer1{
+    background-color: white;
+}
+
+.project-page{
+    background-color: white;
+}
+
+.about-text{
+    font-size: 50px;
+    font-family: 'DM Serif Display', serif;
+    color: #1501A1;
+}
+
+.about-para{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.free-time{
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.video-game{
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
+
+.hobbies{
+    border-radius: 5px;
+    border-color: #1501A1;
+}
+
+.contact-page{
+    background-color: white;
+}
